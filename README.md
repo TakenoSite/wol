@@ -10,3 +10,9 @@
     $client.Connect($target,2304)
     $client.Send($magicPacket,$magicPacket.Length)
     $client.Close() 
+
+    04-6C-59-0C-32-8A
+    192.168.2.126
+
+
+    
